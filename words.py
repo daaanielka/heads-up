@@ -2937,5 +2937,5 @@ CATEGORIES = {
     "Paulo Coelho",
     "Martin Kukučín",
     "Pavol Országh Hviezdoslav"
-]
+],
 }
